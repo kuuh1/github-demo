@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Test Git Quick Start demo
 "test git quick start demo" 
 "test git quick start demo" 
+=======
+Test git quick start demo
+>>>>>>> 4ab924b4dbcfbce2354d4bb7a20b571dfa0244e0
